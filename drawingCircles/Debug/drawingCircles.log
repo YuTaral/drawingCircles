@@ -1,0 +1,4 @@
+﻿  drawingCircles.cpp
+C:\Users\yutar\source\repos\drawingCircles\drawingCircles\drawingCircles.cpp(162,1): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\yutar\source\repos\drawingCircles\drawingCircles\drawingCircles.cpp(286,24): warning C4805: '==': unsafe mix of type 'BOOLEAN' and type 'bool' in operation
+  drawingCircles.vcxproj -> C:\Users\yutar\source\repos\drawingCircles\Debug\drawingCircles.exe
