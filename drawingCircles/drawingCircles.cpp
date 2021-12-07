@@ -1,4 +1,4 @@
-// ps_4.cpp : Defines the entry point for the application.
+// drawingCircles.cpp : Defines the entry point for the application.
 //
 
 #include <Windows.h>
